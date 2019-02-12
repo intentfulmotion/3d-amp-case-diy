@@ -1,2 +1,4 @@
-# 3d-amp-case-diy
-The bog standard, DIY case for the Amp
+# Amp DIY Case
+STL files for 3D printing or otherwise manufacturing the case for the AMP
+
+TODO: Add Fusion 360 Files
